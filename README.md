@@ -1,7 +1,8 @@
 #StarzPlay Javascript developer
 
 We'd like to see some of your skills as a JS developer but we don't want you to invest more than 6 hours doing this.
-If you see you cannot do it please make a plan and send it to us
+We prefer you to send us something partial than receiving nothing, so don't worry if you can't complete all the steps
+and send us what you achieve. If you see you cannot do it please make a plan and send it to us.
 
 ##Dependencies
 1. Github account
