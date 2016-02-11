@@ -16,7 +16,7 @@ and send us what you achieve. If you see you cannot do it please make a plan and
 	3.2- email is required and should be a right email
 	3.3- password is required
 4. Submit button should be disabled while fields are not valid.
-5. Add styles to make the form follow the same style guide shown in the pictures below.
+5. Add styles to make the form follow the same style guide shown in the pictures below (Please include the header in the html too).
 ![alt tag](assets/English.png)
 ![alt tag](assets/Arabic.png)
 6. As we work with english and arabic languages, make the page work well in both directions.
